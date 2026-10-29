@@ -135,6 +135,10 @@ After you login at http://localhost:5050/login you can use the same browser tab 
 - OpenAPI json: http://localhost:5050/openapi/v1.json
 - OpenAPI UI: http://localhost:5050/scalar/v1
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/OpenHabitTracker/)
+
 ## Sync desktop or mobile app with Docker
 
 ### Run the Docker container
